@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Gideon+Roman&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Roboto&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+
+
+
+body {
+    font-family: 'Gideon Roman', cursive;`
+	font-size: 18px;
+    margin: 0px;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-align: left;
+    margin-left: -300px;
+    margin-top: -380px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: black ;
+    margin-left: -350px;
+    margin-top: 200px ;
+    font-size: 50;
+}
+
+h3 {
+    font-size: 12px ;
+    text-decoration: underline;
+
+}
+
+a {
+    text-decoration: none;
+    margin-left: -310px;
+}
+
